@@ -121,6 +121,20 @@ body{
     margin-right: 15px;
 }
 
+.foot3{
+    font-size: 20px;
+    text-align: justify;
+    max-width: 200px;
+    color: rgb(69, 170, 163);
+
+    width: 950px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+    margin:0;
+    margin-right: 15px;
+}
+
 a{
     color: rgb(69, 170, 163);
   }
